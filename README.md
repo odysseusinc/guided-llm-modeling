@@ -20,6 +20,7 @@ included in the repository.
 ### Materials:
  * `ICD_11_excerpt.tsv` - 45 randomly selected ICD-11 codes;
  * `icd11_sieve.py` - script to extract the data from ICD-11 linearization.
+ * `sample_output.json` - output of the conversion.
 
 ## Methodology
 The conversion is performed using Bouzyges, a practical application that orchestrates the interaction between the
@@ -27,7 +28,37 @@ LLM agents and the SNOMED CT contents and data model. The application is develop
 materials.
 
 ## Output
-TBD
+The raw output is provided in JSON format, with the following structure:
+```yaml
+{
+    "items": [
+        {
+            "term": "Sample ICD-11 term",
+            "attributes": [  # Given as SNOMED SCTID value pairs
+                {
+                    "attribute": 111111111,
+                    "value": 222222221
+                },
+                {
+                    "attribute": 333333333,
+                    "value": 444444441
+                }
+            ],
+            "proximal_ancestors": [
+                {
+                    "conceptId": 404684003,
+                    "pt": "Clinical finding"
+                }
+            ],
+            "scg": "<<<404684003",  # An expression in SNOMED CT compositional grammar
+            "metadata": {  # Additional metadata
+                "vocab": "ICD-11",
+                "code": "LD44.B1"
+            }
+        }
+    ]
+}
+```
 
 # License
 ICD-11 excerpts are included in strict accordance to the [Terms of Use and License Agreement](https://icd.who.int/en/docs/ICD11-license.pdf). Bouzyges as a software package is not intended for distribution at this stage, but will be guranateed to stay FOSS at the time of release. Any

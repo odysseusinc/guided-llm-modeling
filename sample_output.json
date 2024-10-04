@@ -1,0 +1,1874 @@
+{
+  "items": [
+    {
+      "term": "Deletions of the short arm of chromosome 11",
+      "attributes": [
+        {
+          "attribute": 370135005,
+          "value": 308490002
+        },
+        {
+          "attribute": 719722006,
+          "value": 419620001
+        },
+        {
+          "attribute": 363698007,
+          "value": 278145009
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 404684003,
+          "pt": "Clinical finding"
+        }
+      ],
+      "scg": "<<<404684003:370135005=308490002,719722006=419620001,363698007=278145009",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "LD44.B1"
+      }
+    },
+    {
+      "term": "Care or examination immediately after delivery",
+      "attributes": [
+        {
+          "attribute": 370134009,
+          "value": 123030002
+        },
+        {
+          "attribute": 246454002,
+          "value": 255410009
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 236823008,
+          "pt": "Female genital and obstetric procedures"
+        },
+        {
+          "conceptId": 9632001,
+          "pt": "Nursing procedure"
+        },
+        {
+          "conceptId": 127777001,
+          "pt": "Provider-specific procedure"
+        },
+        {
+          "conceptId": 373655009,
+          "pt": "Medical service"
+        },
+        {
+          "conceptId": 386637004,
+          "pt": "Obstetric procedure"
+        },
+        {
+          "conceptId": 1258986006,
+          "pt": "Face-to-face encounter"
+        },
+        {
+          "conceptId": 270430005,
+          "pt": "Provider-initiated encounter"
+        },
+        {
+          "conceptId": 773261007,
+          "pt": "Procedure related to reproduction"
+        }
+      ],
+      "scg": "<<<236823008+9632001+373655009+127777001+386637004+773261007+270430005+1258986006:370134009=123030002,246454002=255410009",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "QA48.0"
+      }
+    },
+    {
+      "term": "Anaesthesiology devices associated with injury or harm, prosthetic or other implants, materials or accessory devices",
+      "attributes": [
+        {
+          "attribute": 47429007,
+          "value": 470320000
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 405533003,
+          "pt": "Adverse incident outcome categories"
+        },
+        {
+          "conceptId": 1156072000,
+          "pt": "Device finding"
+        },
+        {
+          "conceptId": 225858006,
+          "pt": "Safety finding"
+        },
+        {
+          "conceptId": 276099005,
+          "pt": "Problem situation"
+        },
+        {
+          "conceptId": 55607006,
+          "pt": "Problem"
+        }
+      ],
+      "scg": "<<<1156072000+225858006+405533003+276099005+55607006:47429007=470320000",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "PK90.2"
+      }
+    },
+    {
+      "term": "Fluoroquinolone resistant Campylobacter",
+      "attributes": [
+        {
+          "attribute": 363713009,
+          "value": 255545003
+        },
+        {
+          "attribute": 246075003,
+          "value": 372380008
+        },
+        {
+          "attribute": 370135005,
+          "value": 441862004
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 55607006,
+          "pt": "Problem"
+        }
+      ],
+      "scg": "<<<55607006:363713009=255545003,246075003=372380008,370135005=441862004",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "MG50.10"
+      }
+    },
+    {
+      "term": "Dislocation of interphalangeal joint of thumb",
+      "attributes": [
+        {
+          "attribute": 116676008,
+          "value": 61542006
+        },
+        {
+          "attribute": 263502005,
+          "value": 255228009
+        },
+        {
+          "attribute": 363698007,
+          "value": 91833003
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 55607006,
+          "pt": "Problem"
+        },
+        {
+          "conceptId": 413321002,
+          "pt": "Problem manageable"
+        },
+        {
+          "conceptId": 413320001,
+          "pt": "Physical health problem"
+        },
+        {
+          "conceptId": 74217003,
+          "pt": "Local disease"
+        }
+      ],
+      "scg": "<<<413320001+413321002+74217003+55607006:116676008=61542006,263502005=255228009,363698007=91833003",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "NC54.11"
+      }
+    },
+    {
+      "term": "Contusion of pancreas",
+      "attributes": [
+        {
+          "attribute": 363698007,
+          "value": 279983000
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 74217003,
+          "pt": "Local disease"
+        },
+        {
+          "conceptId": 55607006,
+          "pt": "Problem"
+        },
+        {
+          "conceptId": 300357002,
+          "pt": "Finding of pancreas"
+        },
+        {
+          "conceptId": 715949008,
+          "pt": "Serious physical health problem"
+        },
+        {
+          "conceptId": 386617003,
+          "pt": "Digestive system finding"
+        },
+        {
+          "conceptId": 444143004,
+          "pt": "Carries emergency treatment"
+        },
+        {
+          "conceptId": 822987005,
+          "pt": "Finding of abdominopelvic segment of trunk"
+        }
+      ],
+      "scg": "<<<300357002+74217003+386617003+715949008+444143004+822987005+55607006:363698007=279983000",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "NB91.40"
+      }
+    },
+    {
+      "term": "Unintentional land transport nontraffic event injuring an occupant of a bus or coach",
+      "attributes": [],
+      "proximal_ancestors": [
+        {
+          "conceptId": 413320001,
+          "pt": "Physical health problem"
+        },
+        {
+          "conceptId": 225858006,
+          "pt": "Safety finding"
+        },
+        {
+          "conceptId": 405533003,
+          "pt": "Adverse incident outcome categories"
+        },
+        {
+          "conceptId": 276099005,
+          "pt": "Problem situation"
+        },
+        {
+          "conceptId": 55607006,
+          "pt": "Problem"
+        }
+      ],
+      "scg": "<<<413320001+225858006+405533003+276099005+55607006",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "PA15"
+      }
+    },
+    {
+      "term": "Depressed skull fracture due to birth injury",
+      "attributes": [
+        {
+          "attribute": 42752001,
+          "value": 88817006
+        },
+        {
+          "attribute": 116676008,
+          "value": 82448003
+        },
+        {
+          "attribute": 726633004,
+          "value": 169960003
+        },
+        {
+          "attribute": 47429007,
+          "value": 88817006
+        },
+        {
+          "attribute": 246454002,
+          "value": 1156678002
+        },
+        {
+          "attribute": 263502005,
+          "value": 425323003
+        },
+        {
+          "attribute": 363698007,
+          "value": 312763008
+        },
+        {
+          "attribute": 246075003,
+          "value": 8609009
+        },
+        {
+          "attribute": 370135005,
+          "value": 308490002
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 405533003,
+          "pt": "Adverse incident outcome categories"
+        },
+        {
+          "conceptId": 74217003,
+          "pt": "Local disease"
+        },
+        {
+          "conceptId": 715949008,
+          "pt": "Serious physical health problem"
+        },
+        {
+          "conceptId": 276099005,
+          "pt": "Problem situation"
+        },
+        {
+          "conceptId": 55607006,
+          "pt": "Problem"
+        },
+        {
+          "conceptId": 302292003,
+          "pt": "Finding of trunk structure"
+        },
+        {
+          "conceptId": 106112009,
+          "pt": "Fetal finding"
+        },
+        {
+          "conceptId": 118953000,
+          "pt": "Bone finding"
+        },
+        {
+          "conceptId": 419026008,
+          "pt": "Effect of exposure to physical force"
+        }
+      ],
+      "scg": "<<<302292003+118953000+106112009+405533003+74217003+715949008+419026008+276099005+55607006:42752001=88817006,116676008=82448003,726633004=169960003,47429007=88817006,246454002=1156678002,263502005=425323003,363698007=312763008,246075003=8609009,370135005=308490002",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "KA45.01"
+      }
+    },
+    {
+      "term": "Minor laceration of thoracic trachea",
+      "attributes": [
+        {
+          "attribute": 116676008,
+          "value": 85243001
+        },
+        {
+          "attribute": 263502005,
+          "value": 425323003
+        },
+        {
+          "attribute": 363698007,
+          "value": 726662003
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 413320001,
+          "pt": "Physical health problem"
+        },
+        {
+          "conceptId": 413321002,
+          "pt": "Problem manageable"
+        },
+        {
+          "conceptId": 74217003,
+          "pt": "Local disease"
+        },
+        {
+          "conceptId": 276099005,
+          "pt": "Problem situation"
+        },
+        {
+          "conceptId": 55607006,
+          "pt": "Problem"
+        },
+        {
+          "conceptId": 225552003,
+          "pt": "Wound finding"
+        },
+        {
+          "conceptId": 301228009,
+          "pt": "Finding of trachea"
+        },
+        {
+          "conceptId": 301296002,
+          "pt": "Mediastinal finding"
+        },
+        {
+          "conceptId": 129893005,
+          "pt": "Respiratory alteration"
+        },
+        {
+          "conceptId": 724622000,
+          "pt": "Problem of chest"
+        },
+        {
+          "conceptId": 609623002,
+          "pt": "Finding of upper trunk"
+        },
+        {
+          "conceptId": 301226008,
+          "pt": "Lower respiratory tract finding"
+        }
+      ],
+      "scg": "<<<413320001+301296002+225552003+413321002+74217003+301228009+129893005+724622000+301226008+609623002+276099005+55607006:116676008=85243001,263502005=425323003,363698007=726662003",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "NB32.51"
+      }
+    },
+    {
+      "term": "Clinical findings on diagnostic imaging of lung",
+      "attributes": [
+        {
+          "attribute": 47429007,
+          "value": 717978008
+        },
+        {
+          "attribute": 363713009,
+          "value": 260373001
+        },
+        {
+          "attribute": 363698007,
+          "value": 181216001
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 129893005,
+          "pt": "Respiratory alteration"
+        },
+        {
+          "conceptId": 301226008,
+          "pt": "Lower respiratory tract finding"
+        },
+        {
+          "conceptId": 128973006,
+          "pt": "Finding related physiologic patient state"
+        },
+        {
+          "conceptId": 301257008,
+          "pt": "Respiratory finding of chest"
+        },
+        {
+          "conceptId": 72670004,
+          "pt": "Sign"
+        },
+        {
+          "conceptId": 301230006,
+          "pt": "Lung finding"
+        },
+        {
+          "conceptId": 418138009,
+          "pt": "Patient condition finding"
+        },
+        {
+          "conceptId": 406123005,
+          "pt": "Viscus structure finding"
+        }
+      ],
+      "scg": "<<<129893005+128973006+301257008+72670004+301230006+301226008+418138009+406123005:47429007=717978008,363713009=260373001,363698007=181216001",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "MD41"
+      }
+    },
+    {
+      "term": "Sleeptalking",
+      "attributes": [
+        {
+          "attribute": 246456000,
+          "value": 394846009
+        },
+        {
+          "attribute": 726633004,
+          "value": 248220008
+        },
+        {
+          "attribute": 246454002,
+          "value": 713153009
+        },
+        {
+          "attribute": 719722006,
+          "value": 789750003
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 106021008,
+          "pt": "Sleep rest pattern finding"
+        },
+        {
+          "conceptId": 401175000,
+          "pt": "Sleep pattern"
+        },
+        {
+          "conceptId": 26677001,
+          "pt": "Sleep pattern disturbance"
+        },
+        {
+          "conceptId": 105721009,
+          "pt": "General problem AND/OR complaint"
+        },
+        {
+          "conceptId": 118223001,
+          "pt": "Patient status finding"
+        }
+      ],
+      "scg": "<<<105721009+106021008+26677001+401175000+118223001:246456000=394846009,726633004=248220008,246454002=713153009,719722006=789750003",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "MB60"
+      }
+    },
+    {
+      "term": "Pelvic hernia",
+      "attributes": [
+        {
+          "attribute": 116676008,
+          "value": 1287430009
+        },
+        {
+          "attribute": 263502005,
+          "value": 255314001
+        },
+        {
+          "attribute": 363698007,
+          "value": 728861004
+        },
+        {
+          "attribute": 370135005,
+          "value": 308490002
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 74217003,
+          "pt": "Local disease"
+        },
+        {
+          "conceptId": 413321002,
+          "pt": "Problem manageable"
+        },
+        {
+          "conceptId": 715949008,
+          "pt": "Serious physical health problem"
+        },
+        {
+          "conceptId": 276099005,
+          "pt": "Problem situation"
+        },
+        {
+          "conceptId": 55607006,
+          "pt": "Problem"
+        },
+        {
+          "conceptId": 27624003,
+          "pt": "Chronic disease"
+        },
+        {
+          "conceptId": 417893002,
+          "pt": "Deformity"
+        },
+        {
+          "conceptId": 5294002,
+          "pt": "Developmental disorder"
+        },
+        {
+          "conceptId": 71994000,
+          "pt": "Problem, abnormal examination"
+        },
+        {
+          "conceptId": 102478008,
+          "pt": "Pre-existing condition"
+        }
+      ],
+      "scg": "<<<27624003+417893002+74217003+413321002+71994000+715949008+5294002+102478008+276099005+55607006:116676008=1287430009,263502005=255314001,363698007=728861004,370135005=308490002",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "DD50.1"
+      }
+    },
+    {
+      "term": "Bone diseases with increased bone density, unspecified",
+      "attributes": [
+        {
+          "attribute": 370135005,
+          "value": 308490002
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 74217003,
+          "pt": "Local disease"
+        },
+        {
+          "conceptId": 715949008,
+          "pt": "Serious physical health problem"
+        },
+        {
+          "conceptId": 5294002,
+          "pt": "Developmental disorder"
+        },
+        {
+          "conceptId": 276099005,
+          "pt": "Problem situation"
+        },
+        {
+          "conceptId": 55607006,
+          "pt": "Problem"
+        },
+        {
+          "conceptId": 75934005,
+          "pt": "Metabolic disease"
+        }
+      ],
+      "scg": "<<<74217003+715949008+5294002+75934005+276099005+55607006:370135005=308490002",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "LD24.1Z"
+      }
+    },
+    {
+      "term": "Haemorrhagic disorder due to unspecified circulating anticoagulants or coagulation factors",
+      "attributes": [
+        {
+          "attribute": 42752001,
+          "value": 1335815005
+        },
+        {
+          "attribute": 246075003,
+          "value": 116193007
+        },
+        {
+          "attribute": 370135005,
+          "value": 263680009
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 413321002,
+          "pt": "Problem manageable"
+        },
+        {
+          "conceptId": 128973006,
+          "pt": "Finding related physiologic patient state"
+        },
+        {
+          "conceptId": 715949008,
+          "pt": "Serious physical health problem"
+        },
+        {
+          "conceptId": 276099005,
+          "pt": "Problem situation"
+        },
+        {
+          "conceptId": 55607006,
+          "pt": "Problem"
+        },
+        {
+          "conceptId": 88472004,
+          "pt": "Intercurrent disease"
+        },
+        {
+          "conceptId": 85828009,
+          "pt": "Autoimmune disease"
+        },
+        {
+          "conceptId": 414029004,
+          "pt": "Disorder of immune function"
+        }
+      ],
+      "scg": "<<<88472004+85828009+413321002+414029004+128973006+715949008+276099005+55607006:42752001=1335815005,246075003=116193007,370135005=263680009",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "3B21.Z"
+      }
+    },
+    {
+      "term": "Airway disease due to specific organic dust, unspecified",
+      "attributes": [
+        {
+          "attribute": 42752001,
+          "value": 785340007
+        },
+        {
+          "attribute": 246075003,
+          "value": 300901001
+        },
+        {
+          "attribute": 370135005,
+          "value": 609404002
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 413321002,
+          "pt": "Problem manageable"
+        },
+        {
+          "conceptId": 74217003,
+          "pt": "Local disease"
+        },
+        {
+          "conceptId": 715949008,
+          "pt": "Serious physical health problem"
+        },
+        {
+          "conceptId": 102478008,
+          "pt": "Pre-existing condition"
+        },
+        {
+          "conceptId": 55607006,
+          "pt": "Problem"
+        },
+        {
+          "conceptId": 21180000,
+          "pt": "Industrial environment related disease"
+        },
+        {
+          "conceptId": 83282002,
+          "pt": "Nature environment related disease"
+        },
+        {
+          "conceptId": 115966001,
+          "pt": "Occupational disorder"
+        },
+        {
+          "conceptId": 70395000,
+          "pt": "Home environment related disease"
+        }
+      ],
+      "scg": "<<<21180000+413321002+74217003+715949008+115966001+83282002+102478008+70395000+55607006:42752001=785340007,246075003=300901001,370135005=609404002",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "CA80.Z"
+      }
+    },
+    {
+      "term": "Halitosis disorder (TM2)",
+      "attributes": [
+        {
+          "attribute": 363713009,
+          "value": 43261007
+        },
+        {
+          "attribute": 370135005,
+          "value": 441862004
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 413320001,
+          "pt": "Physical health problem"
+        },
+        {
+          "conceptId": 413321002,
+          "pt": "Problem manageable"
+        },
+        {
+          "conceptId": 74217003,
+          "pt": "Local disease"
+        },
+        {
+          "conceptId": 128973006,
+          "pt": "Finding related physiologic patient state"
+        },
+        {
+          "conceptId": 71994000,
+          "pt": "Problem, abnormal examination"
+        },
+        {
+          "conceptId": 105721009,
+          "pt": "General problem AND/OR complaint"
+        },
+        {
+          "conceptId": 276099005,
+          "pt": "Problem situation"
+        },
+        {
+          "conceptId": 55607006,
+          "pt": "Problem"
+        },
+        {
+          "conceptId": 40733004,
+          "pt": "Infectious disease"
+        },
+        {
+          "conceptId": 127357005,
+          "pt": "Finding related to physiologic substance"
+        }
+      ],
+      "scg": "<<<413320001+413321002+74217003+40733004+127357005+128973006+71994000+105721009+276099005+55607006:363713009=43261007,370135005=441862004",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "SM15"
+      }
+    },
+    {
+      "term": "Puncture wound with foreign body of finger or thumb",
+      "attributes": [
+        {
+          "attribute": 116676008,
+          "value": 397175005
+        },
+        {
+          "attribute": 47429007,
+          "value": 1231445009
+        },
+        {
+          "attribute": 719722006,
+          "value": 69129000
+        },
+        {
+          "attribute": 363698007,
+          "value": 361712008
+        },
+        {
+          "attribute": 370135005,
+          "value": 441862004
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 413320001,
+          "pt": "Physical health problem"
+        },
+        {
+          "conceptId": 225552003,
+          "pt": "Wound finding"
+        },
+        {
+          "conceptId": 74217003,
+          "pt": "Local disease"
+        },
+        {
+          "conceptId": 105721009,
+          "pt": "General problem AND/OR complaint"
+        },
+        {
+          "conceptId": 276099005,
+          "pt": "Problem situation"
+        },
+        {
+          "conceptId": 724629009,
+          "pt": "Problem of finger"
+        },
+        {
+          "conceptId": 724628001,
+          "pt": "Problem of hand"
+        },
+        {
+          "conceptId": 313132009,
+          "pt": "Finding of digit of hand"
+        },
+        {
+          "conceptId": 724625003,
+          "pt": "Problem of upper limb"
+        },
+        {
+          "conceptId": 301319006,
+          "pt": "Hand present"
+        },
+        {
+          "conceptId": 297982009,
+          "pt": "Skin problem"
+        }
+      ],
+      "scg": "<<<413320001+225552003+724629009+301319006+724628001+313132009+74217003+724625003+105721009+297982009+276099005:116676008=397175005,47429007=1231445009,719722006=69129000,363698007=361712008,370135005=441862004",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "NC52.03"
+      }
+    },
+    {
+      "term": "Personal history of food-induced allergy or hypersensitivity",
+      "attributes": [
+        {
+          "attribute": 246456000,
+          "value": 272131007
+        },
+        {
+          "attribute": 42752001,
+          "value": 781249001
+        },
+        {
+          "attribute": 726633004,
+          "value": 402390008
+        },
+        {
+          "attribute": 47429007,
+          "value": 39102003
+        },
+        {
+          "attribute": 363713009,
+          "value": 1290623009
+        },
+        {
+          "attribute": 255234002,
+          "value": 781249001
+        },
+        {
+          "attribute": 246454002,
+          "value": 713152004
+        },
+        {
+          "attribute": 263502005,
+          "value": 255228009
+        },
+        {
+          "attribute": 370135005,
+          "value": 771698008
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 413320001,
+          "pt": "Physical health problem"
+        },
+        {
+          "conceptId": 127357005,
+          "pt": "Finding related to physiologic substance"
+        },
+        {
+          "conceptId": 128973006,
+          "pt": "Finding related physiologic patient state"
+        },
+        {
+          "conceptId": 418138009,
+          "pt": "Patient condition finding"
+        },
+        {
+          "conceptId": 225858006,
+          "pt": "Safety finding"
+        },
+        {
+          "conceptId": 276099005,
+          "pt": "Problem situation"
+        },
+        {
+          "conceptId": 102476007,
+          "pt": "Abnormal patient reaction"
+        },
+        {
+          "conceptId": 473011001,
+          "pt": "Allergic condition"
+        },
+        {
+          "conceptId": 410547008,
+          "pt": "Finding related to giving of individual health history"
+        },
+        {
+          "conceptId": 418471000,
+          "pt": "Propensity to adverse reactions to food"
+        },
+        {
+          "conceptId": 102475006,
+          "pt": "Patient reaction finding"
+        },
+        {
+          "conceptId": 7114006,
+          "pt": "Hypersensitivity to foreign antigen"
+        }
+      ],
+      "scg": "<<<410547008+413320001+102476007+127357005+128973006+473011001+418471000+418138009+225858006+7114006+276099005+102475006:246456000=272131007,42752001=781249001,726633004=402390008,47429007=39102003,363713009=1290623009,255234002=781249001,246454002=713152004,263502005=255228009,370135005=771698008",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "QC44.1"
+      }
+    },
+    {
+      "term": "Reactive plasmacytic hyperplasia",
+      "attributes": [
+        {
+          "attribute": 116676008,
+          "value": 81739009
+        },
+        {
+          "attribute": 363713009,
+          "value": 264840007
+        },
+        {
+          "attribute": 370135005,
+          "value": 769256002
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 413320001,
+          "pt": "Physical health problem"
+        },
+        {
+          "conceptId": 74217003,
+          "pt": "Local disease"
+        },
+        {
+          "conceptId": 414029004,
+          "pt": "Disorder of immune function"
+        },
+        {
+          "conceptId": 55607006,
+          "pt": "Problem"
+        },
+        {
+          "conceptId": 54512006,
+          "pt": "Nonspecific immune reaction"
+        },
+        {
+          "conceptId": 106182000,
+          "pt": "Immune system finding"
+        },
+        {
+          "conceptId": 299691001,
+          "pt": "Finding of blood, lymphatics and immune system"
+        }
+      ],
+      "scg": "<<<413320001+54512006+74217003+414029004+106182000+299691001+55607006:116676008=81739009,363713009=264840007,370135005=769256002",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "2B32.1"
+      }
+    },
+    {
+      "term": "Presence of transplanted bone marrow",
+      "attributes": [
+        {
+          "attribute": 47429007,
+          "value": 1148601009
+        },
+        {
+          "attribute": 363698007,
+          "value": 410611000
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 299691001,
+          "pt": "Finding of blood, lymphatics and immune system"
+        },
+        {
+          "conceptId": 127357005,
+          "pt": "Finding related to physiologic substance"
+        },
+        {
+          "conceptId": 128973006,
+          "pt": "Finding related physiologic patient state"
+        },
+        {
+          "conceptId": 418138009,
+          "pt": "Patient condition finding"
+        },
+        {
+          "conceptId": 80631005,
+          "pt": "Clinical stage finding"
+        },
+        {
+          "conceptId": 82832008,
+          "pt": "General body state finding"
+        },
+        {
+          "conceptId": 129826008,
+          "pt": "Finding related to therapeutic regimen management"
+        }
+      ],
+      "scg": "<<<82832008+299691001+127357005+128973006+129826008+418138009+80631005:47429007=1148601009,363698007=410611000",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "QB63.6"
+      }
+    },
+    {
+      "term": "Fungal infection of joint",
+      "attributes": [
+        {
+          "attribute": 263502005,
+          "value": 62459000
+        },
+        {
+          "attribute": 363698007,
+          "value": 91833003
+        },
+        {
+          "attribute": 246075003,
+          "value": 84489001
+        },
+        {
+          "attribute": 370135005,
+          "value": 441862004
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 74217003,
+          "pt": "Local disease"
+        },
+        {
+          "conceptId": 715949008,
+          "pt": "Serious physical health problem"
+        },
+        {
+          "conceptId": 105721009,
+          "pt": "General problem AND/OR complaint"
+        },
+        {
+          "conceptId": 276099005,
+          "pt": "Problem situation"
+        },
+        {
+          "conceptId": 55607006,
+          "pt": "Problem"
+        },
+        {
+          "conceptId": 10443009,
+          "pt": "Localized infection"
+        },
+        {
+          "conceptId": 63459005,
+          "pt": "Clinical infection"
+        },
+        {
+          "conceptId": 78885002,
+          "pt": "Disease of presumed infectious origin"
+        },
+        {
+          "conceptId": 177010002,
+          "pt": "Chronic infectious disease"
+        },
+        {
+          "conceptId": 1300177006,
+          "pt": "Invasive infectious disease"
+        },
+        {
+          "conceptId": 78999002,
+          "pt": "Opportunistic mycosis"
+        }
+      ],
+      "scg": "<<<10443009+63459005+78885002+74217003+1300177006+715949008+105721009+177010002+78999002+276099005+55607006:263502005=62459000,363698007=91833003,246075003=84489001,370135005=441862004",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "FA10.2"
+      }
+    },
+    {
+      "term": "Mansonelliasis",
+      "attributes": [
+        {
+          "attribute": 47429007,
+          "value": 609043009
+        },
+        {
+          "attribute": 246454002,
+          "value": 767023003
+        },
+        {
+          "attribute": 263502005,
+          "value": 255341006
+        },
+        {
+          "attribute": 246075003,
+          "value": 609043009
+        },
+        {
+          "attribute": 370135005,
+          "value": 442614005
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 413320001,
+          "pt": "Physical health problem"
+        },
+        {
+          "conceptId": 78885002,
+          "pt": "Disease of presumed infectious origin"
+        },
+        {
+          "conceptId": 74217003,
+          "pt": "Local disease"
+        },
+        {
+          "conceptId": 1300177006,
+          "pt": "Invasive infectious disease"
+        },
+        {
+          "conceptId": 177010002,
+          "pt": "Chronic infectious disease"
+        },
+        {
+          "conceptId": 63459005,
+          "pt": "Clinical infection"
+        },
+        {
+          "conceptId": 55607006,
+          "pt": "Problem"
+        },
+        {
+          "conceptId": 86820007,
+          "pt": "Endemic disease"
+        },
+        {
+          "conceptId": 56019007,
+          "pt": "Systemic disease"
+        },
+        {
+          "conceptId": 17322007,
+          "pt": "Parasitic disease"
+        },
+        {
+          "conceptId": 84706005,
+          "pt": "Infection caused by Nematoda"
+        }
+      ],
+      "scg": "<<<413320001+86820007+78885002+74217003+1300177006+177010002+84706005+17322007+63459005+55607006+56019007:47429007=609043009,246454002=767023003,263502005=255341006,246075003=609043009,370135005=442614005",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "1F66.1"
+      }
+    },
+    {
+      "term": "Benign osteogenic tumour of other specified site",
+      "attributes": [
+        {
+          "attribute": 370135005,
+          "value": 1495041000004108
+        },
+        {
+          "attribute": 363698007,
+          "value": 328133002
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 413320001,
+          "pt": "Physical health problem"
+        },
+        {
+          "conceptId": 74217003,
+          "pt": "Local disease"
+        },
+        {
+          "conceptId": 55607006,
+          "pt": "Problem"
+        },
+        {
+          "conceptId": 414027002,
+          "pt": "Disorder of hematopoietic structure"
+        },
+        {
+          "conceptId": 88230002,
+          "pt": "Disorder of skeletal system"
+        },
+        {
+          "conceptId": 76069003,
+          "pt": "Disorder of bone"
+        },
+        {
+          "conceptId": 127035006,
+          "pt": "Bone marrow disorder"
+        }
+      ],
+      "scg": "<<<413320001+127035006+74217003+76069003+88230002+414027002+55607006:370135005=1495041000004108,363698007=328133002",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "2E83.Y"
+      }
+    },
+    {
+      "term": "Ulcer disorder (TM2)",
+      "attributes": [
+        {
+          "attribute": 116676008,
+          "value": 860793004
+        },
+        {
+          "attribute": 263502005,
+          "value": 47501007
+        },
+        {
+          "attribute": 246075003,
+          "value": 32763000
+        },
+        {
+          "attribute": 370135005,
+          "value": 441862004
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 128973006,
+          "pt": "Finding related physiologic patient state"
+        },
+        {
+          "conceptId": 71994000,
+          "pt": "Problem, abnormal examination"
+        },
+        {
+          "conceptId": 715949008,
+          "pt": "Serious physical health problem"
+        },
+        {
+          "conceptId": 177010002,
+          "pt": "Chronic infectious disease"
+        },
+        {
+          "conceptId": 413321002,
+          "pt": "Problem manageable"
+        },
+        {
+          "conceptId": 74217003,
+          "pt": "Local disease"
+        },
+        {
+          "conceptId": 102478008,
+          "pt": "Pre-existing condition"
+        },
+        {
+          "conceptId": 276099005,
+          "pt": "Problem situation"
+        },
+        {
+          "conceptId": 712657002,
+          "pt": "Infection caused by Fusobacterium"
+        },
+        {
+          "conceptId": 408638001,
+          "pt": "Disease caused by Gram-negative bacillus"
+        }
+      ],
+      "scg": "<<<128973006+71994000+715949008+177010002+413321002+74217003+712657002+408638001+102478008+276099005:116676008=860793004,263502005=47501007,246075003=32763000,370135005=441862004",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "SN4W"
+      }
+    },
+    {
+      "term": "Radiculopathy due to metabolic disorders",
+      "attributes": [
+        {
+          "attribute": 42752001,
+          "value": 418715001
+        },
+        {
+          "attribute": 47429007,
+          "value": 102632006
+        },
+        {
+          "attribute": 246454002,
+          "value": 767023003
+        },
+        {
+          "attribute": 263502005,
+          "value": 47501007
+        },
+        {
+          "attribute": 246075003,
+          "value": 87708000
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 27624003,
+          "pt": "Chronic disease"
+        },
+        {
+          "conceptId": 88472004,
+          "pt": "Intercurrent disease"
+        },
+        {
+          "conceptId": 413321002,
+          "pt": "Problem manageable"
+        },
+        {
+          "conceptId": 74217003,
+          "pt": "Local disease"
+        },
+        {
+          "conceptId": 128973006,
+          "pt": "Finding related physiologic patient state"
+        },
+        {
+          "conceptId": 715949008,
+          "pt": "Serious physical health problem"
+        },
+        {
+          "conceptId": 102478008,
+          "pt": "Pre-existing condition"
+        },
+        {
+          "conceptId": 276099005,
+          "pt": "Problem situation"
+        },
+        {
+          "conceptId": 55607006,
+          "pt": "Problem"
+        },
+        {
+          "conceptId": 56019007,
+          "pt": "Systemic disease"
+        },
+        {
+          "conceptId": 398192003,
+          "pt": "Co-morbid conditions"
+        },
+        {
+          "conceptId": 106145009,
+          "pt": "Motor nervous system finding"
+        }
+      ],
+      "scg": "<<<27624003+398192003+88472004+413321002+74217003+128973006+715949008+106145009+102478008+276099005+55607006+56019007:42752001=418715001,47429007=102632006,246454002=767023003,263502005=47501007,246075003=87708000",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "8B93.1"
+      }
+    },
+    {
+      "term": "Mental and emotional disorders (TM1), unspecified",
+      "attributes": [
+        {
+          "attribute": 246454002,
+          "value": 767023003
+        },
+        {
+          "attribute": 263502005,
+          "value": 62459000
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 27624003,
+          "pt": "Chronic disease"
+        },
+        {
+          "conceptId": 102478008,
+          "pt": "Pre-existing condition"
+        },
+        {
+          "conceptId": 55607006,
+          "pt": "Problem"
+        },
+        {
+          "conceptId": 899001,
+          "pt": "Axis I diagnosis"
+        },
+        {
+          "conceptId": 106015009,
+          "pt": "Mental disorder AND/OR culture bound syndrome"
+        },
+        {
+          "conceptId": 105728003,
+          "pt": "Nursing observation AND/OR diagnosis"
+        }
+      ],
+      "scg": "<<<106015009+105728003+27624003+102478008+899001+55607006:246454002=767023003,263502005=62459000",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "SD8Z"
+      }
+    },
+    {
+      "term": "Secondary gout, unspecified",
+      "attributes": [
+        {
+          "attribute": 42752001,
+          "value": 272379006
+        },
+        {
+          "attribute": 246075003,
+          "value": 115668003
+        },
+        {
+          "attribute": 370135005,
+          "value": 769247005
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 398192003,
+          "pt": "Co-morbid conditions"
+        },
+        {
+          "conceptId": 88472004,
+          "pt": "Intercurrent disease"
+        },
+        {
+          "conceptId": 413321002,
+          "pt": "Problem manageable"
+        },
+        {
+          "conceptId": 414029004,
+          "pt": "Disorder of immune function"
+        },
+        {
+          "conceptId": 715949008,
+          "pt": "Serious physical health problem"
+        },
+        {
+          "conceptId": 75934005,
+          "pt": "Metabolic disease"
+        },
+        {
+          "conceptId": 102478008,
+          "pt": "Pre-existing condition"
+        },
+        {
+          "conceptId": 276099005,
+          "pt": "Problem situation"
+        },
+        {
+          "conceptId": 55607006,
+          "pt": "Problem"
+        },
+        {
+          "conceptId": 56019007,
+          "pt": "Systemic disease"
+        },
+        {
+          "conceptId": 45744005,
+          "pt": "Disorder of mineral metabolism"
+        },
+        {
+          "conceptId": 238006008,
+          "pt": "Disorder of purine and pyrimidine metabolism"
+        },
+        {
+          "conceptId": 35885006,
+          "pt": "Hyperuricemia"
+        }
+      ],
+      "scg": "<<<398192003+88472004+45744005+413321002+414029004+35885006+238006008+715949008+75934005+102478008+276099005+55607006+56019007:42752001=272379006,246075003=115668003,370135005=769247005",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "FA25.1Z"
+      }
+    },
+    {
+      "term": "Meconium staining",
+      "attributes": [
+        {
+          "attribute": 726633004,
+          "value": 445548006
+        },
+        {
+          "attribute": 363713009,
+          "value": 43261007
+        },
+        {
+          "attribute": 246454002,
+          "value": 1156678002
+        },
+        {
+          "attribute": 263502005,
+          "value": 425323003
+        },
+        {
+          "attribute": 363698007,
+          "value": 280706002
+        },
+        {
+          "attribute": 370135005,
+          "value": 308490002
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 106112009,
+          "pt": "Fetal finding"
+        },
+        {
+          "conceptId": 127357005,
+          "pt": "Finding related to physiologic substance"
+        },
+        {
+          "conceptId": 128973006,
+          "pt": "Finding related physiologic patient state"
+        },
+        {
+          "conceptId": 418138009,
+          "pt": "Patient condition finding"
+        },
+        {
+          "conceptId": 80631005,
+          "pt": "Clinical stage finding"
+        },
+        {
+          "conceptId": 72670004,
+          "pt": "Sign"
+        },
+        {
+          "conceptId": 102484006,
+          "pt": "Associated sign"
+        },
+        {
+          "conceptId": 289261003,
+          "pt": "Delivery problem"
+        },
+        {
+          "conceptId": 281037003,
+          "pt": "Child health observations"
+        },
+        {
+          "conceptId": 248242009,
+          "pt": "General physical finding"
+        },
+        {
+          "conceptId": 302080006,
+          "pt": "Finding of birth outcome"
+        },
+        {
+          "conceptId": 273984003,
+          "pt": "Delivery problem for fetus"
+        },
+        {
+          "conceptId": 118216002,
+          "pt": "Labor finding"
+        },
+        {
+          "conceptId": 118215003,
+          "pt": "Delivery finding"
+        },
+        {
+          "conceptId": 249612005,
+          "pt": "Stool finding"
+        },
+        {
+          "conceptId": 251665008,
+          "pt": "Obstetric investigative finding"
+        },
+        {
+          "conceptId": 304598004,
+          "pt": "Postnatal examination finding"
+        },
+        {
+          "conceptId": 301305006,
+          "pt": "Finding of general observation of appearance"
+        },
+        {
+          "conceptId": 289262005,
+          "pt": "Finding of structures of conception"
+        },
+        {
+          "conceptId": 248982007,
+          "pt": "Pregnancy, childbirth and puerperium finding"
+        }
+      ],
+      "scg": "<<<118216002+273984003+302080006+106112009+281037003+289261003+127357005+128973006+248242009+418138009+118215003+80631005+249612005+102484006+301305006+251665008+72670004+304598004+289262005+248982007:726633004=445548006,363713009=43261007,246454002=1156678002,263502005=425323003,363698007=280706002,370135005=308490002",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "KD38"
+      }
+    },
+    {
+      "term": "Labour or delivery complicated by biochemical evidence of fetal stress",
+      "attributes": [
+        {
+          "attribute": 42752001,
+          "value": 123823007
+        },
+        {
+          "attribute": 246112005,
+          "value": 371924009
+        },
+        {
+          "attribute": 371881003,
+          "value": 48204000
+        },
+        {
+          "attribute": 726633004,
+          "value": 123823007
+        },
+        {
+          "attribute": 47429007,
+          "value": 288274003
+        },
+        {
+          "attribute": 363713009,
+          "value": 1290623009
+        },
+        {
+          "attribute": 246454002,
+          "value": 1156678002
+        },
+        {
+          "attribute": 263502005,
+          "value": 18131002
+        },
+        {
+          "attribute": 719722006,
+          "value": 133261000119105
+        },
+        {
+          "attribute": 363698007,
+          "value": 83418008
+        },
+        {
+          "attribute": 370135005,
+          "value": 308490002
+        }
+      ],
+      "proximal_ancestors": [
+        {
+          "conceptId": 105728003,
+          "pt": "Nursing observation AND/OR diagnosis"
+        },
+        {
+          "conceptId": 273984003,
+          "pt": "Delivery problem for fetus"
+        },
+        {
+          "conceptId": 106112009,
+          "pt": "Fetal finding"
+        },
+        {
+          "conceptId": 405533003,
+          "pt": "Adverse incident outcome categories"
+        },
+        {
+          "conceptId": 289261003,
+          "pt": "Delivery problem"
+        },
+        {
+          "conceptId": 127357005,
+          "pt": "Finding related to physiologic substance"
+        },
+        {
+          "conceptId": 128973006,
+          "pt": "Finding related physiologic patient state"
+        },
+        {
+          "conceptId": 715949008,
+          "pt": "Serious physical health problem"
+        },
+        {
+          "conceptId": 418138009,
+          "pt": "Patient condition finding"
+        },
+        {
+          "conceptId": 444143004,
+          "pt": "Carries emergency treatment"
+        },
+        {
+          "conceptId": 80631005,
+          "pt": "Clinical stage finding"
+        },
+        {
+          "conceptId": 413321002,
+          "pt": "Problem manageable"
+        },
+        {
+          "conceptId": 251665008,
+          "pt": "Obstetric investigative finding"
+        },
+        {
+          "conceptId": 105721009,
+          "pt": "General problem AND/OR complaint"
+        },
+        {
+          "conceptId": 289262005,
+          "pt": "Finding of structures of conception"
+        },
+        {
+          "conceptId": 276099005,
+          "pt": "Problem situation"
+        },
+        {
+          "conceptId": 30593001,
+          "pt": "Early complication"
+        },
+        {
+          "conceptId": 289344004,
+          "pt": "Fetus present"
+        },
+        {
+          "conceptId": 45757002,
+          "pt": "Labor problem"
+        },
+        {
+          "conceptId": 274127000,
+          "pt": "Abnormal delivery"
+        },
+        {
+          "conceptId": 249195007,
+          "pt": "Maternal condition during labor"
+        }
+      ],
+      "scg": "<<<105728003+289344004+273984003+106112009+45757002+405533003+289261003+127357005+128973006+715949008+274127000+418138009+444143004+80631005+30593001+413321002+251665008+105721009+289262005+276099005+249195007:42752001=123823007,246112005=371924009,371881003=48204000,726633004=123823007,47429007=288274003,363713009=1290623009,246454002=1156678002,263502005=18131002,719722006=133261000119105,363698007=83418008,370135005=308490002",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "JB07.2"
+      }
+    },
+    {
+      "term": "Elevated blood glucose level, unspecified",
+      "attributes": [],
+      "proximal_ancestors": [
+        {
+          "conceptId": 413320001,
+          "pt": "Physical health problem"
+        },
+        {
+          "conceptId": 88472004,
+          "pt": "Intercurrent disease"
+        },
+        {
+          "conceptId": 127357005,
+          "pt": "Finding related to physiologic substance"
+        },
+        {
+          "conceptId": 128973006,
+          "pt": "Finding related physiologic patient state"
+        },
+        {
+          "conceptId": 71994000,
+          "pt": "Problem, abnormal examination"
+        },
+        {
+          "conceptId": 418138009,
+          "pt": "Patient condition finding"
+        },
+        {
+          "conceptId": 413321002,
+          "pt": "Problem manageable"
+        },
+        {
+          "conceptId": 75934005,
+          "pt": "Metabolic disease"
+        },
+        {
+          "conceptId": 276099005,
+          "pt": "Problem situation"
+        },
+        {
+          "conceptId": 29968005,
+          "pt": "Problem, abnormal test"
+        },
+        {
+          "conceptId": 1217050005,
+          "pt": "Abnormal carbohydrate regulation"
+        },
+        {
+          "conceptId": 69701009,
+          "pt": "Abnormal general body function"
+        },
+        {
+          "conceptId": 3219008,
+          "pt": "Disease type AND/OR category unknown"
+        },
+        {
+          "conceptId": 80394007,
+          "pt": "Hyperglycemia"
+        },
+        {
+          "conceptId": 298339004,
+          "pt": "Finding of body control"
+        },
+        {
+          "conceptId": 237597000,
+          "pt": "Disorder of glucose regulation"
+        }
+      ],
+      "scg": "<<<3219008+413320001+88472004+29968005+237597000+127357005+128973006+71994000+69701009+1217050005+80394007+418138009+413321002+75934005+298339004+276099005",
+      "metadata": {
+        "vocab": "ICD-11",
+        "code": "MA18.0Z"
+      }
+    }
+  ]
+}
